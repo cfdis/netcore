@@ -24,8 +24,8 @@ namespace Cfdis.App.Api.Client
             }
             else
             {
-                //endpoint = "http://backend.demo.facturabilidad.com/api";
-                endpoint = "http://local.backend.facturabilidad.com/api";
+                endpoint = "http://backend.demo.facturabilidad.com/api";
+                //endpoint = "http://local.backend.facturabilidad.com/api";
             }
         }
         public ApiResult timbrar(Cfdi cfdi)
