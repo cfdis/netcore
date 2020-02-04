@@ -1,0 +1,8 @@
+C:\Users\virtual\source\repos\api.cfdis.app\api.cfdis.app\bin\Debug\netcoreapp3.1\api.cfdis.app.deps.json
+C:\Users\virtual\source\repos\api.cfdis.app\api.cfdis.app\bin\Debug\netcoreapp3.1\api.cfdis.app.dll
+C:\Users\virtual\source\repos\api.cfdis.app\api.cfdis.app\bin\Debug\netcoreapp3.1\api.cfdis.app.pdb
+C:\Users\virtual\source\repos\api.cfdis.app\api.cfdis.app\obj\Debug\netcoreapp3.1\api.cfdis.app.csprojAssemblyReference.cache
+C:\Users\virtual\source\repos\api.cfdis.app\api.cfdis.app\obj\Debug\netcoreapp3.1\api.cfdis.app.AssemblyInfoInputs.cache
+C:\Users\virtual\source\repos\api.cfdis.app\api.cfdis.app\obj\Debug\netcoreapp3.1\api.cfdis.app.AssemblyInfo.cs
+C:\Users\virtual\source\repos\api.cfdis.app\api.cfdis.app\obj\Debug\netcoreapp3.1\api.cfdis.app.dll
+C:\Users\virtual\source\repos\api.cfdis.app\api.cfdis.app\obj\Debug\netcoreapp3.1\api.cfdis.app.pdb
