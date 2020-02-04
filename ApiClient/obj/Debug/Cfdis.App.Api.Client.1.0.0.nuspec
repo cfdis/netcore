@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Cfdis.App.Api.Client</id>
+    <version>1.0.0</version>
+    <authors>eliut</authors>
+    <owners>eliut</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://github.com/cfdis/netcore</projectUrl>
+    <description>Cliente de API para facturación electrónica en México</description>
+    <tags>cfdi facturacion electrónica sat</tags>
+    <repository type="git" url="https://github.com/cfdis/netcore" />
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Newtonsoft.Json" version="12.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\virtual\source\repos\api.cfdis.app\ApiClient\bin\Debug\netcoreapp3.1\ApiClient.dll" target="lib\netcoreapp3.1\ApiClient.dll" />
+  </files>
+</package>

@@ -1,0 +1,16 @@
+C:\Users\virtual\source\repos\api.cfdis.app\api.cfdis.app\bin\Debug\netcoreapp3.1\ApiClient.deps.json
+C:\Users\virtual\source\repos\api.cfdis.app\api.cfdis.app\bin\Debug\netcoreapp3.1\ApiClient.dll
+C:\Users\virtual\source\repos\api.cfdis.app\api.cfdis.app\bin\Debug\netcoreapp3.1\ApiClient.pdb
+C:\Users\virtual\source\repos\api.cfdis.app\api.cfdis.app\obj\Debug\netcoreapp3.1\ApiClient.csprojAssemblyReference.cache
+C:\Users\virtual\source\repos\api.cfdis.app\api.cfdis.app\obj\Debug\netcoreapp3.1\ApiClient.AssemblyInfoInputs.cache
+C:\Users\virtual\source\repos\api.cfdis.app\api.cfdis.app\obj\Debug\netcoreapp3.1\ApiClient.AssemblyInfo.cs
+C:\Users\virtual\source\repos\api.cfdis.app\api.cfdis.app\obj\Debug\netcoreapp3.1\ApiClient.dll
+C:\Users\virtual\source\repos\api.cfdis.app\api.cfdis.app\obj\Debug\netcoreapp3.1\ApiClient.pdb
+C:\Users\virtual\source\repos\api.cfdis.app\ApiClient\bin\Debug\netcoreapp3.1\ApiClient.deps.json
+C:\Users\virtual\source\repos\api.cfdis.app\ApiClient\bin\Debug\netcoreapp3.1\ApiClient.dll
+C:\Users\virtual\source\repos\api.cfdis.app\ApiClient\bin\Debug\netcoreapp3.1\ApiClient.pdb
+C:\Users\virtual\source\repos\api.cfdis.app\ApiClient\obj\Debug\netcoreapp3.1\ApiClient.csprojAssemblyReference.cache
+C:\Users\virtual\source\repos\api.cfdis.app\ApiClient\obj\Debug\netcoreapp3.1\ApiClient.AssemblyInfoInputs.cache
+C:\Users\virtual\source\repos\api.cfdis.app\ApiClient\obj\Debug\netcoreapp3.1\ApiClient.AssemblyInfo.cs
+C:\Users\virtual\source\repos\api.cfdis.app\ApiClient\obj\Debug\netcoreapp3.1\ApiClient.dll
+C:\Users\virtual\source\repos\api.cfdis.app\ApiClient\obj\Debug\netcoreapp3.1\ApiClient.pdb

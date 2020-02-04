@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <PackageId>Cfdis.App.Api.Client</PackageId>
+    <Authors>eliut</Authors>
+    <Product />
+    <Description>Cliente de API para facturación electrónica en México</Description>
+    <Copyright />
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/cfdis/netcore</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/cfdis/netcore</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>cfdi facturacion electrónica sat</PackageTags>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+</Project>

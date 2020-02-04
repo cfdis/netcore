@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <!-- Required elements-->
+    <id>api.cfdis.app</id>
+    <version>1.0.0</version>
+    <description>Cliente de API para facturación electrónica en México</description>
+    <authors>eliut</authors>
+
+    <!-- Optional elements -->
+    <projectUrl>https://github.com/cfdis/netcore</projectUrl>
+    <icon>img\logo.png</icon>
+    <tags>cfdi facturacion electrónica sat</tags>
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="12.0.3" />
+    </dependencies>
+    <!-- ... -->
+  </metadata>
+  <!-- Optional 'files' node -->
+  <files>
+    <file src="readme.txt" />
+    <file src="transforms\web.config.install.xdt" target="content\web.config.install.xdt" />
+    <file src="transforms\views.web.config.install.xdt" target="content\Views\web.config.install.xdt" />
+    <file src="App_Data\Models\**" target="content\App_Data\Models" />
+    <file src="Controllers\**" target="content\Controllers" />
+    <file src="Models\**" target="content\Models" />
+    <file src="Views\**" target="content\Views" />
+    <file src="Helpers\**" target="content\Helpers" />
+    <file src="Content\**" target="content\Content" />
+  </files>
+</package>

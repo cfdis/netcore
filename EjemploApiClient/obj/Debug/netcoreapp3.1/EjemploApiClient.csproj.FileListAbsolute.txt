@@ -1,0 +1,15 @@
+C:\Users\virtual\source\repos\api.cfdis.app\test.api.cfdis.app\bin\Debug\netcoreapp3.1\EjemploApiClient.exe
+C:\Users\virtual\source\repos\api.cfdis.app\test.api.cfdis.app\bin\Debug\netcoreapp3.1\EjemploApiClient.deps.json
+C:\Users\virtual\source\repos\api.cfdis.app\test.api.cfdis.app\bin\Debug\netcoreapp3.1\EjemploApiClient.runtimeconfig.json
+C:\Users\virtual\source\repos\api.cfdis.app\test.api.cfdis.app\bin\Debug\netcoreapp3.1\EjemploApiClient.runtimeconfig.dev.json
+C:\Users\virtual\source\repos\api.cfdis.app\test.api.cfdis.app\bin\Debug\netcoreapp3.1\EjemploApiClient.dll
+C:\Users\virtual\source\repos\api.cfdis.app\test.api.cfdis.app\bin\Debug\netcoreapp3.1\EjemploApiClient.pdb
+C:\Users\virtual\source\repos\api.cfdis.app\test.api.cfdis.app\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\virtual\source\repos\api.cfdis.app\test.api.cfdis.app\bin\Debug\netcoreapp3.1\ApiClient.dll
+C:\Users\virtual\source\repos\api.cfdis.app\test.api.cfdis.app\bin\Debug\netcoreapp3.1\ApiClient.pdb
+C:\Users\virtual\source\repos\api.cfdis.app\test.api.cfdis.app\obj\Debug\netcoreapp3.1\EjemploApiClient.csprojAssemblyReference.cache
+C:\Users\virtual\source\repos\api.cfdis.app\test.api.cfdis.app\obj\Debug\netcoreapp3.1\EjemploApiClient.AssemblyInfoInputs.cache
+C:\Users\virtual\source\repos\api.cfdis.app\test.api.cfdis.app\obj\Debug\netcoreapp3.1\EjemploApiClient.AssemblyInfo.cs
+C:\Users\virtual\source\repos\api.cfdis.app\test.api.cfdis.app\obj\Debug\netcoreapp3.1\EjemploApiClient.csproj.CopyComplete
+C:\Users\virtual\source\repos\api.cfdis.app\test.api.cfdis.app\obj\Debug\netcoreapp3.1\EjemploApiClient.dll
+C:\Users\virtual\source\repos\api.cfdis.app\test.api.cfdis.app\obj\Debug\netcoreapp3.1\EjemploApiClient.pdb
