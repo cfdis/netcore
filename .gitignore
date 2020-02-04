@@ -4,3 +4,13 @@
 ApiClient/bin/
 
 ApiClient/obj/
+
+ApiClientTest/bin/
+
+ApiClientTest/obj/
+
+EjemploApiClient/obj/
+
+EjemploApiClient/bin/
+
+ApiClient/nuget.config

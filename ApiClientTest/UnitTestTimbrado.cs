@@ -16,8 +16,8 @@ namespace ApiClientTest
 
         public UnitTestTimbrado()
         {
-            //cliente = new Cfdi33Client("uq4ZWSWme1m6LwoDO3KuCXkM0tlNCuoW", "crkQ0FZTkAtqcy4zqRrWlIpMv2nbuJRz");
-            cliente = new Cfdi33Client("StWJNHkw8JrPTPJ2aBfV2DeOtoE0KR4x", "7CU/1sZhUkosm39pF+2Qs3mPrVH9l04i");
+            cliente = new Cfdi33Client("uq4ZWSWme1m6LwoDO3KuCXkM0tlNCuoW", "crkQ0FZTkAtqcy4zqRrWlIpMv2nbuJRz");
+            //cliente = new Cfdi33Client("StWJNHkw8JrPTPJ2aBfV2DeOtoE0KR4x", "7CU/1sZhUkosm39pF+2Qs3mPrVH9l04i");
             cfdi = new Cfdi();
             cfdi.Moneda = "MXN";
             cfdi.FormaPago = "03";

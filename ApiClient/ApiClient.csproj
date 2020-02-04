@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <PackageId>Cfdis.App.Api.Client</PackageId>
-    <Authors>eliut</Authors>
+    <Authors>eislasq</Authors>
     <Product />
     <Description>Cliente de API para facturación electrónica en México</Description>
     <Copyright />
