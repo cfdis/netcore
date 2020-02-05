@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Cfdis.App.Api.Client;
 using Cfdis.App.Api.Client.Beans;
 using System.Collections.Generic;
@@ -44,10 +44,10 @@ namespace EjemploApiClient
             c.Impuestos.Traslados.Traslado = new List<Traslado>();
             c.Impuestos.Traslados.Traslado.Add(t);
 
-            t.Impuesto = "002";
+            t.Impuesto = "002";//IVA=002
             t.TasaOCuota = "0.160000";
             t.TipoFactor = "Tasa";
-            t.Base = "10.000";
+            t.Base = "10.000";//Lo más común es que se ponga el producto de c.ValorUnitario*c.Cantidad
 
 
             Cfdi33Client cliente = new Cfdi33Client("uq4ZWSWme1m6LwoDO3KuCXkM0tlNCuoW", "crkQ0FZTkAtqcy4zqRrWlIpMv2nbuJRz");  

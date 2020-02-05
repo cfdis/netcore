@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "EjemploApiClient"
+		},
+		{
+			"path": "ApiClient"
+		},
+		{
+			"path": "ApiClientTest"
+		}
+	],
+	"settings": {}
+}
