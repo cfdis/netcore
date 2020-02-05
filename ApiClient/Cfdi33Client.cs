@@ -63,7 +63,6 @@ namespace Cfdis.App.Api.Client
             {
                 var response = ((HttpWebResponse)e.Response);
                 var content = response.GetResponseStream();
-                // check the content if needed 
                 using (var streamReader = new StreamReader(content))
                 {
                     string result = streamReader.ReadToEnd();
