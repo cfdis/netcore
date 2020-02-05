@@ -1,3 +1,3 @@
-Install from the command line:
+Install from the command line(.NET CLI):
 ```shell
-$ dotnet add PROJECT package Cfdis.App.Api.Client --version 1.0.0
+$ dotnet add package Cfdis.App.Api.Client --version 1.0.0
