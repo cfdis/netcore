@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using Cfdis.App.Api.Client;
 using Cfdis.App.Api.Client.Beans;
 using System.Collections.Generic;
@@ -51,7 +51,6 @@ namespace EjemploApiClient
 
 
             Cfdi33Client cliente = new Cfdi33Client("uq4ZWSWme1m6LwoDO3KuCXkM0tlNCuoW", "crkQ0FZTkAtqcy4zqRrWlIpMv2nbuJRz");  
-            //Cfdi33Client cliente = new Cfdi33Client("StWJNHkw8JrPTPJ2aBfV2DeOtoE0KR4x", "7CU/1sZhUkosm39pF+2Qs3mPrVH9l04i");
 
             try
             {
